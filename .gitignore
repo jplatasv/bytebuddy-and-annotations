@@ -25,3 +25,6 @@ hs_err_pid*
 # Others
 .idea/
 target/
+.settings/
+.classpath
+.project
